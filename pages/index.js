@@ -6,6 +6,7 @@ export default function Home() {
   return (
     <Fragment>
       <Hero/>
+      <FeaturedPost posts={}/>
     </Fragment>
   )
 }

@@ -1,5 +1,5 @@
 const PostsPage = () => {
-    return (  );
+    return ( <p></p> );
 }
  
 export default PostsPage;
